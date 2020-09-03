@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785890498953",
+    "firebase_url": "https://familychat-faea5.firebaseio.com",
+    "project_id": "familychat-faea5",
+    "storage_bucket": "familychat-faea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785890498953:android:a0d6ff5f571006b4542958",
+        "android_client_info": {
+          "package_name": "io.roeldingle.familychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785890498953-e2v2v1pts8s2760dnd6e9h625166ksdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuFxifL1EM1TNxZcL6LXhhQqexpn4ZjDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785890498953-e2v2v1pts8s2760dnd6e9h625166ksdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
